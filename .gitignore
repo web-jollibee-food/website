@@ -1,0 +1,6 @@
+# Ignore local environment variables configuration
+.env
+jollibee.db-journal
+logs_emails/
+uploads/*
+!uploads/.gitkeep
